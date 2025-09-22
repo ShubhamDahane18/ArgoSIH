@@ -1,0 +1,14 @@
+/Test/data/
+.env
+Test\argo.parquet
+Test\processed
+
+# Ignore Test/data directory
+/Test/data/
+
+# Ignore env files
+.env
+
+# Ignore Test/argo.parquet and Test/processed folders
+/Test/argo.parquet/
+/Test/processed/
